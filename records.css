@@ -1,0 +1,11 @@
+body{
+    background: #808080;
+    text-align: center;
+}
+button{
+    margin: 60px;
+    color: black;
+}
+#records{
+    text-align: center;
+}

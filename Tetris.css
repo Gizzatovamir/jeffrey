@@ -1,0 +1,25 @@
+#nextPiece{
+    float: left;
+    height: 20vh;
+    background: blue;
+}
+#tetris{
+    float: left;
+    height: 80vh;
+}
+#score{
+    text-align: center;
+    color: #ff1700;
+    height: 5vh;
+    font-size: 4vh;
+}
+#lvl{
+    text-align: center;
+    height: 5vh;
+    color: #ff1700;
+    font-size: 4vh;
+}
+body{
+    background: #808080;
+}
+
